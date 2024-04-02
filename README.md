@@ -1,0 +1,3 @@
+This is a Simple calculator program that performs basic arithmetic operations such as Addition , Subtraction , Multiplication , Division. Input any two numbers and choose any operation to perform .Let me explain this in detail .
+Header Incluion: The code begins with including necessary header file - iostream for input and output operation.
+Namespace Usuage: using namespace std; is a directive that tells the compiler to consider all the entities in the std namespace as if they have declared in the global namespace. This is done to avoid having to prepend std::to every standard library function or object.
